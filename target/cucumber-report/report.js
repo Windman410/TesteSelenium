@@ -402,7 +402,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "eu digitar no campo Comments \"Coment�rio digitado apenas para preencher o campo\"",
+  "name": "eu digitar no campo Comments \"Comentario digitado apenas para preencher o campo\"",
   "keyword": "E "
 });
 formatter.match({
